@@ -34,4 +34,4 @@
 # 📞 İletişim
 ## Kullanmak isteyenler yazılı izin almalıdır:
 ## GitHub: github.com/blads1948
-## Mail: [Proton Mail: Blads1948](https://blads1948@proton.me)
+## Mail: blads1948@proton.me
