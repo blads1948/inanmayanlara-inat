@@ -27,11 +27,10 @@
 ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Matplotlib_logo.svg/2560px-Matplotlib_logo.svg.png)
 
 # 📜 Lisans ve Kullanım
-## Bu proje açık kaynak değildir.
-## Her hakkı Blads 1948'e aittir.
-## İzinsiz paylaşmak, kopyalamak veya kullanmak yasaktır.
+### Her hakkı Blads 1948'e aittir.
+### İzinsiz paylaşmak, kopyalamak veya kullanmak yasaktır.
 
 # 📞 İletişim
 ## Kullanmak isteyenler yazılı izin almalıdır:
-## GitHub: github.com/blads1948
+## GitHub: [Github](https://github.com/blads1948)
 ## Mail: [Gönder](mailto:blads1948@proton.me)
